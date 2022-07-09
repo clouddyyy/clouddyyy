@@ -1,5 +1,6 @@
-### Hi there 👋
+Java, Lua & Python Developer
 
+Currently Learning: C++
 <!--
 **clouddyyy/clouddyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
